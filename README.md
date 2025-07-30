@@ -94,7 +94,7 @@ SlideChat/
 ├── requirements.txt
 ├── README.md
 └── results/
-    ├── classifivation report.png
+    ├── classification report.png
     ├── patches.png
     ├── slidechat digital pathology analysis.png
     ├── slidechat model evaluation metrics.png
